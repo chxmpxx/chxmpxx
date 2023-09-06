@@ -4,7 +4,7 @@ Hi 👋 My name is Arreeya Sungthong
 Flutter Developer
 -----------------
 
-I'll be graduating with a bachelor's degree in Computer Science from Kasetsart University.
+BS Computer Science - Kasetsart University
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [arreeya.sun@gmail.com](mailto:arreeya.sun@gmail.com)
